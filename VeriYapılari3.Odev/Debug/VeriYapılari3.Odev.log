@@ -1,0 +1,23 @@
+﻿  VeriYapılari3.Odev.cpp
+C:\Users\user\Desktop\VeriYapıları3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev.cpp(186,6): warning C4101: 'karsilas': unreferenced local variable
+C:\Users\user\Desktop\VeriYapıları3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev.cpp(253,33): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user\Desktop\VeriYapıları3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev.cpp(269,31): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user\Desktop\VeriYapıları3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev.cpp(287,33): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user\Desktop\VeriYapıları3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev\VeriYapılari3.Odev.cpp(303,31): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  VeriYapılari3.Odev.vcxproj -> C:\Users\user\Desktop\VeriYapıları3.Odev\VeriYapılari3.Odev\Debug\VeriYapılari3.Odev.exe
